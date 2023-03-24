@@ -1,0 +1,11 @@
+# Image dataset folder
+image_dataset
+
+# Imagenet detection classes
+det_classes.txt
+
+# Project IDE files
+.idea
+
+# remove model files from git history due to large size
+models
